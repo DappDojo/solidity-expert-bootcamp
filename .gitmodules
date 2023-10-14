@@ -1,0 +1,3 @@
+[submodule "Solutions/homework-4/foundry-project/lib/forge-std"]
+	path = Solutions/homework-4/foundry-project/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
